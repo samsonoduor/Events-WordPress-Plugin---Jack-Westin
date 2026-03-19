@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Westin Test Events
- * Plugin URI: https://github.com
+ * Plugin URI: https://github.com/samsonoduor/Events-WordPress-Plugin---Jack-Westin.git
  * Description: A custom events plugin with event types, admin tools, front-end templates, filtering, RSVP handling, REST support, WP-CLI seeding, and test scaffolding.
  * Version: 1.4.3
  * Author: Samson Oduor
