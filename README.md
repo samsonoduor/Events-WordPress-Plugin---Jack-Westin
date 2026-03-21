@@ -1,6 +1,6 @@
 # Westin Test Events
 
-Westin Test Events is a custom WordPress plugin that adds a dedicated Events content type, three related taxonomies, richer event metadata, modern front-end templates, filtering, RSVP handling, REST support, WP-CLI seed data, translation files, and expanded unit test coverage.
+Westin Test Events is a modular, production-ready WordPress plugin that provides a complete event management system, including custom post types, taxonomies, RSVP handling, admin tooling, and modern frontend templates. It is designed to demonstrate clean architecture, practical UX decisions, and real-world extensibility, while covering core WordPress development concepts such as REST API integration, caching strategies, security best practices, and unit testing.
 
 ## Included features
 
