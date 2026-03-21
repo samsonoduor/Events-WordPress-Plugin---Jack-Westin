@@ -1,6 +1,6 @@
 # Westin Test Events
 
-Westin Test Events is a custom WordPress plugin built for the audition brief. It adds a dedicated Events content type, three related taxonomies, richer event metadata, modern front-end templates, filtering, RSVP handling, REST support, WP-CLI seed data, translation files, and expanded unit test coverage.
+Westin Test Events is a custom WordPress plugin that adds a dedicated Events content type, three related taxonomies, richer event metadata, modern front-end templates, filtering, RSVP handling, REST support, WP-CLI seed data, translation files, and expanded unit test coverage.
 
 ## Included features
 
